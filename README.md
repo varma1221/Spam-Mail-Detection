@@ -1,15 +1,15 @@
-# 📧 Spam Mail Detection
+# Spam Mail Detection
 
 This repository contains my implementation of the **Spam Mail Detection Project**, completed as part of my **AI & ML Internship at CODEXINTERN**.  
 The goal is to classify email messages as **Spam** or **Ham** using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Performed detailed EDA including:
 
-- **Dataset Overview**: Used `.head()`, `.tail()`, and `.info()` to understand the dataset.  
+- **Dataset Overview**: Used `.head()` to understand the dataset.  
 - **Class Distribution**: Analyzed the count of `ham` vs `spam` messages.  
 - **Text Preprocessing**:
   - Lowercasing text  
@@ -21,7 +21,7 @@ Performed detailed EDA including:
 
 ---
 
-## 🛠️ Models Implemented
+## Models Implemented
 
 Two supervised learning models were trained, evaluated, and compared using **Bag of Words (BoW)** vectorization:
 
@@ -34,7 +34,7 @@ Two supervised learning models were trained, evaluated, and compared using **Bag
 
 ---
 
-## 📈 Evaluation
+## Evaluation
 
 Each model was evaluated using:
 
@@ -46,7 +46,7 @@ Visual evaluations allow deeper insight into model performance and highlight str
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. Clone the repository and set up the environment
 ```bash
